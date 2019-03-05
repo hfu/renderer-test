@@ -1,0 +1,23 @@
+{
+  "name": "renderer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/renderer-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/renderer-test/issues"
+  },
+  "homepage": "https://github.com/hfu/renderer-test#readme",
+  "dependencies": {
+    "mbgl-renderer": "^0.4.0"
+  }
+}
